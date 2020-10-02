@@ -34,3 +34,9 @@ def print_table(table):
     for cell in range(72,81):
         print(table[cell], end="   ")
     print("")
+
+
+def generate_index_table(table):
+    """used for generating a numbered stack, just to see the indexes of the sudoku"""
+    for item in range(81):
+        table.append(item)

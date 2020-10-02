@@ -16,3 +16,6 @@ import unittest
 # if __name__ == '__main__':
 #
 #     unittest.main()
+
+
+"""functions used to test certain things from main"""
